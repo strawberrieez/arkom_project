@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710001766854",
+    "project_id": "arkom-project",
+    "storage_bucket": "arkom-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710001766854:android:bf1bb48c63c1460425c2c7",
+        "android_client_info": {
+          "package_name": "com.arkom_project.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710001766854-lmqdbis4dimabojr5krji9v76nsatl9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwCYJmISpQSGtAxN9s2pncujkmC4qkKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710001766854-lmqdbis4dimabojr5krji9v76nsatl9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
