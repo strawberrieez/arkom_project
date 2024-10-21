@@ -12,9 +12,17 @@ dependencies:
   flutter:
     sdk: flutter
     
-
+  states_rebuilder: ^6.4.0
+  navigation_builder: ^0.0.4
+  intl: ^0.19.0
+  validators: ^3.0.0
+  hive_flutter: ^1.1.0
   cupertino_icons: ^1.0.8
   firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_storage: ^12.3.3
+  firebase_auth: ^5.3.1
+  image_picker: ^1.1.2
 
 dev_dependencies:
   flutter_test:
@@ -24,3 +32,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/json/

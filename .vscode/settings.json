@@ -1,0 +1,33 @@
+{
+  "files.exclude": {
+    ".readme_template": true,
+    ".fttemplates": true,
+    "lib-old": true,
+    ".dart_tool": true,
+    ".firebaserc": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    ".git": true,
+    ".gitignore": true,
+    ".idea": true,
+    ".metadata": true,
+    ".vscode": true,
+    "analysis_options.yaml": true,
+    "android": true,
+    "arkom_project.iml": true,
+    "assets": true,
+    "build": true,
+    "firebase.json": true,
+    "firestore.indexes.json": true,
+    "firestore.rules": true,
+    "ios": true,
+    "linux": true,
+    "macos": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    "storage.rules": true,
+    "test": true,
+    "web": true,
+    "windows": true
+  }
+}
